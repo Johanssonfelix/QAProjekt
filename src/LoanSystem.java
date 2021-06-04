@@ -8,6 +8,6 @@ public class LoanSystem {
 
         logger.trace("Hej");
         logger.error("Problem");
-
+        logger.info("HMMM");
     }
 }
